@@ -1,6 +1,8 @@
 # CODSOFT-INTERNSHIP
 
-# CodSoft Internship Projects
+## CodSoft Internship Projects
+
+---
 
 ## Excited to Share My CodSoft Internship Project: Movie Genre Classification Using Machine Learning 🎬
 
@@ -9,9 +11,9 @@
 - Addressing challenges in data preprocessing, feature extraction, and model selection to build an effective classifier.
 
 ### 🔧 Tools & Techniques:
-- **Languages & Libraries:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
-- **Machine Learning Techniques:** TF-IDF Vectorization, Logistic Regression, Linear SVC, Multinomial Naive Bayes.
-- Leveraging Data Visualization for insightful EDA (Exploratory Data Analysis).
+- **Languages & Libraries:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Machine Learning Techniques:** TF-IDF Vectorization, Logistic Regression, Linear SVC, Multinomial Naive Bayes
+- Leveraging Data Visualization for insightful EDA (Exploratory Data Analysis)
 
 ### 📊 Dataset Insights:
 - Worked with a comprehensive dataset comprising over 54,000 movie descriptions.
@@ -23,6 +25,8 @@
 - Strengthened my skills in machine learning while also developing a deeper understanding of the storytelling potential of data and the impactful role of predictive analytics in the media industry.
 
 This project has been an enriching experience that has not only enhanced my technical skills but also provided valuable insights into the complexities of working with real-world data in the context of media and entertainment.
+
+---
 
 ## 🚀 Excited to Share My Project: Customer Churn Prediction Using Machine Learning! 📈
 
